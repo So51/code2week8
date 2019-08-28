@@ -1,0 +1,3 @@
+var x = 7.8 ; 
+var y = 9 ;
+document.write (y - x);
